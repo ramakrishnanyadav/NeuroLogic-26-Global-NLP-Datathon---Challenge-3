@@ -13,3 +13,6 @@
 * **Model Backbone**: `microsoft/mdeberta-v3-base` (Disentangled Attention structure outperforms XLM-RoBERTa on Hindi-English context).
 * **Prevention Mechanisms**: Integrated 5-pass Multi-Sample Dropout regularizing the final classification space to eliminate cross-lingual overfitting.
 * **Explainability & Demo**: Real-time integration of inference pipelines via Streamlit + SHAP Value visualization for bias auditing.
+
+### 🖥️ Live Application Demonstration
+![Harmful Content Blocked](/demo.png)
